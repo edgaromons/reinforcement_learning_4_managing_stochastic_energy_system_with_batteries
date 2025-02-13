@@ -1,0 +1,26 @@
+pyomo==6.4.1
+omlt
+gurobipy
+onnx
+powerplantmatching
+hvplot
+geoviews
+l2rpn_baselines
+stable_baselines3
+Chronix2Grid
+grid2op[chronix2grid]
+xarray
+virtualenv
+pandas
+pydantic
+requests
+gym[mujoco]
+tqdm
+grid2viz
+gymnasium[classic_control]
+wandb
+seaborn
+git+https://github.com/rte-france/grid2viz --user
+gymnasium[classic_control]
+git+https://github.com/pydata/xarray.git
+coinor-cbc
